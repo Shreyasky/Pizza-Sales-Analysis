@@ -1,5 +1,5 @@
 # Pizza Sales Analysis Project:
-
+🍕🍕🍕🍕🍕
 ## Objective: Analyze pizza sales data to identify trends and provide actionable insights for business growth.
 
 ## Data Cleaning: Processed raw sales data by removing duplicates, handling missing values, and standardizing formats using Python (Pandas).
